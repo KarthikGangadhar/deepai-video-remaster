@@ -1,0 +1,22 @@
+{
+  "name": "deepai-video-remaster",
+  "version": "1.0.0",
+  "description": "This is a nodejs project to remaster old videos using deepai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikGangadhar/deepai-video-remaster.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarthikGangadhar/deepai-video-remaster/issues"
+  },
+  "homepage": "https://github.com/KarthikGangadhar/deepai-video-remaster#readme",
+  "dependencies": {
+    "deepai": "^1.0.17"
+  }
+}
